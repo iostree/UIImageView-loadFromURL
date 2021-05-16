@@ -44,7 +44,7 @@ imageView.setImage(from: url, placeholder: UIImage(named: "sample"), isCache: tr
 ### Download the file here
 [UIImageView+loadFromUrl.swift](https://github.com/iostree/UIImageView-loadFromURL/blob/master/UIImageView%2BloadFromURL.swift)
 
-[![Github](https://img.shields.io/badge/Github-release-red.svg)](https://github.com/Sivabalaa/UIImageView-loadFromUrl)
+[![Github](https://img.shields.io/badge/Github-release-red.svg)](https://github.com/iostree/UIImageView-loadFromURL)
 
 
 License
